@@ -13,3 +13,4 @@
 - Мониторинг и логирование в серверном приложении
 
   ![2024-01-13_133736.jpg](https://github.com/ShumAhd/My-Web-Application/blob/main/img/2024-01-13_133736.jpg)
+.
